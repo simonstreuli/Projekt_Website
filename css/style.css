@@ -223,3 +223,8 @@ details{
   height: 300px;
   width: 480px;
 }
+ #teamimg {
+  position: absolute;
+  left: 170%;
+  width: 350px;
+ }
